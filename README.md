@@ -18,6 +18,7 @@ Algorithm
 ● We utilised a pre trained frontal face detector from Dlib’s library which is based on  a modification to the Histogram of Oriented Gradients in combination with Linear  SVM for classification. 
 
 ● The pre-trained facial landmark detector inside the dlib library is used to estimate  the location of 68 (x, y)-coordinates that map to facial structures on the face. The 68  landmark output is shown in the figure below. However, we utilised the 70 landmark  model.
+![image](https://github.com/Nitish2222/Driver-Drowsiness-Detection-System/assets/116637683/9a1833eb-4dc7-4ecc-b34b-6c7be03acc47)
 
 
 
